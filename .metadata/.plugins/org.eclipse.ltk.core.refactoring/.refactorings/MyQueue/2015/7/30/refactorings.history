@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;MyQueue&apos; to &apos;MyQueueOneStack&apos;&#x0D;&#x0A;- Original project: &apos;MyQueue&apos;&#x0D;&#x0A;- Original element: &apos;MyQueue&apos;&#x0D;&#x0A;- Renamed element: &apos;MyQueueOneStack&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyQueue&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{MyQueue.java[MyQueue" matchStrategy="1" name="MyQueueOneStack" qualified="false" references="true" similarDeclarations="false" stamp="1437381958836" textual="false" version="1.0"/>
+</session>
